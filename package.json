@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Npm Test ",
+  "main": "test.js",
+  "dependencies": {
+    "backbone": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016git remote add origin https://github.com/NguWahKyne/project.git"
+  },
+  "author": "Ngu Wah Khyne",
+  "license": "ISC"
+}
